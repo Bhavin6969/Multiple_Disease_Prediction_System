@@ -6,3 +6,4 @@ In addition to the predictive models, the repository provides insightful visuali
 
 We encourage community engagement and welcome contributions from individuals interested in refining the models, expanding the dataset collection, or exploring novel approaches to enhance the accuracy of disease predictions. Together, we can contribute to the evolution of healthcare analytics and positively impact patient outcomes. Join us in the pursuit of creating robust, interpretable, and accessible models for predicting diseases that affect millions of lives worldwide.
 
+![Screenshot 2024-01-22 173328](https://github.com/Bhavin6969/Multiple_Disease_Prediction_System/assets/103599813/bb36ceee-2e3b-4df9-85a6-c78f5e188b96)
